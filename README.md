@@ -1,7 +1,7 @@
 
 ## Objective:
 
-- Setup Kind v1.29.1 cluster with Calico CNI in Air-Gapped environment /table
+- Setup Kind v1.29.1 cluster with Calico CNI in Air-Gapped environment.
 
 ## Git-repo Link:
 
